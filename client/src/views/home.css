@@ -546,6 +546,23 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.home-text30{
+  top: 25px;
+  right:130px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
 .home-text31 {
   color: rgba(255, 255, 255, 1);
   /* right: 18px; */
@@ -565,11 +582,10 @@
 }
 
 .connectwallet {
-  left: 0px;
   color: #ffffff;
-  right: 0px;
+  right: -450px;
   width: 150px;
-  top:-300px;
+  top:-280px;
   height: 53px;
   /* margin: auto; */
   display: inline-flex;

@@ -152,7 +152,6 @@ export const TransactionsProvider = ({ children }) => {
       value={{
         transactionCount,
         connectWallet,
-        getAllTransactions,
         transactions,
         currentAccount,
         isLoading,
